@@ -1,0 +1,14 @@
+zm_ds_army_new - Counter-Strike - ZombieMod
+Remake DimeX
+
+The first map from my collection X-Zm_maps. It remake an interesting map zm_ds_army_v3. 
+Gameplay I have left practically former, behind an exception of pair trifles.
+Changes:
+1. New textures
+2. It is finished gameplay, now it is even better
+3. Models on a map are added
+4. The teleport (secret) is added
+
+X-Zm_maps - best maps
+
+(Press FIRE to continue)
