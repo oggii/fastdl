@@ -1,0 +1,4 @@
+3
+weapon			640 MAX[BLOODLIKER]/weapons_cso/640hud74	0	0	170	45
+weapon_s		640 MAX[BLOODLIKER]/weapons_cso/640hud74	0	45	170	45
+ammo			640 MAX[BLOODLIKER]/weapons_cso/640hud2_01	121	231	24	24
